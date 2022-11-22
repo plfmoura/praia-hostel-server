@@ -1,0 +1,183 @@
+{
+    "funcionarios": [
+        {
+            "id": 202001,
+            "nome": "Pedro Lucas Ferreira de Moura",
+            "cargo": "desevolvedor web",
+            "grau": 3,
+            "ingles": true
+        },
+        {
+            "id": 202002,
+            "nome": "Lucia de Castro Alves",
+            "cargo": "recepicionista",
+            "grau": 3,
+            "ingles": false
+        },
+        {
+            "id": 202003,
+            "nome": "André Mauro Costa Santos",
+            "cargo": "recepicionista",
+            "grau": 3,
+            "ingles": false
+        },
+        {
+            "id": 202004,
+            "nome": "Sophia da Silva Sauro",
+            "cargo": "gestão de marketing",
+            "grau": 3
+        },
+        {
+            "id": 202005,
+            "nome": "Agatha Pereira Lemos de Aragão",
+            "cargo": "governanta",
+            "grau": 3,
+            "ingles": true
+        },
+        {
+            "id": 202006,
+            "nome": "Roberto Campos da Conceição",
+            "cargo": "serviços gerais",
+            "grau": 2,
+            "ingles": false
+        },
+        {
+            "id": 202007,
+            "nome": "Esther Santos Souza de Melo",
+            "cargo": "serviços gerais",
+            "grau": 2,
+            "ingles": false
+        },
+        {
+            "id": 202008,
+            "nome": "Luiza Santana do Nascimento Paes",
+            "cargo": "cozinheira",
+            "grau": 2,
+            "ingles": false
+        }
+    ],
+    "quartos": [
+        {
+            "id": 101,
+            "andar": "1",
+            "acessibilidade": false,
+            "status": "livre",
+            "leitos": 4
+        },
+        {
+            "id": 102,
+            "andar": "1",
+            "acessibilidade": false,
+            "status": "livre",
+            "leitos": 4
+        },
+        {
+            "id": 103,
+            "andar": "1",
+            "acessibilidade": true,
+            "status": "livre",
+            "leitos": 2
+        },
+        {
+            "id": 104,
+            "andar": "1",
+            "acessibilidade": false,
+            "status": "livre",
+            "leitos": 4
+        },
+        {
+            "id": 201,
+            "andar": "2",
+            "acessibilidade": false,
+            "status": "livre",
+            "leitos": 4
+        },
+        {
+            "id": 202,
+            "andar": "2",
+            "acessibilidade": false,
+            "status": "livre",
+            "leitos": 2
+        },
+        {
+            "id": 203,
+            "andar": "2",
+            "acessibilidade": true,
+            "status": "livre",
+            "leitos": 2
+        },
+        {
+            "id": 204,
+            "andar": "2",
+            "acessibilidade": false,
+            "status": "livre",
+            "leitos": 2
+        }
+    ],
+    "hospedes": [
+        {
+            "id": 1,
+            "quarto": 201,
+            "nome": "Alberto Fernades da Costa",
+            "nacionalidade": "brasil",
+            "grau": 1,
+            "acessibilidade": false
+        },
+        {
+            "id": 2,
+            "nome": "Flavio Costa do Nascimento",
+            "nacionalidade": "brasil",
+            "grau": 1,
+            "quarto": 201,
+            "acessibilidade": false
+        },
+        {
+            "id": 3,
+            "nome": "Rodrigo dos Santos Schailder",
+            "nacionalidade": "brasil",
+            "grau": 1,
+            "quarto": 201,
+            "acessibilidade": false
+        },
+        {
+            "id": 4,
+            "nome": "Pedro Paixão Costa Preste",
+            "nacionalidade": "brasil",
+            "grau": 1,
+            "quarto": 204,
+            "acessibilidade": false
+        },
+        {
+            "id": 5,
+            "nome": "Fabiola Campos dos Santos",
+            "nacionalidade": "brasil",
+            "grau": 1,
+            "quarto": 101,
+            "acessibilidade": false
+        },
+        {
+            "id": 6,
+            "nome": "Erica Filomena Alves",
+            "nacionalidade": "brasil",
+            "grau": 1,
+            "quarto": 101,
+            "acessibilidade": false
+        },
+        {
+            "id": 7,
+            "nome": "Beatriz Santana de Lima",
+            "nacionalidade": "brasil",
+            "grau": 1,
+            "quarto": 201,
+            "acessibilidade": false
+        },
+        {
+            "id": 8,
+            "nome": "Caio Abreu de Lima",
+            "nacionalidade": "brasil",
+            "grau": 1,
+            "quarto": 201,
+            "acessibilidade": false
+        }
+    ]
+}
